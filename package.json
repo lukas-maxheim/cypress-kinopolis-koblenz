@@ -1,0 +1,16 @@
+{
+  "name": "cypress-kinopolis-koblenz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open"
+  },
+  "author": "Lukas Maxheim <guten-tag@lukas-mx.de>",
+  "license": "ICS",
+  "homepage": "https://github.com/lukas-makes-code/",
+  "dependencies": {
+    "cypress": "^11.1.0",
+    "cypress-lmc-plugin": "^1.0.1"
+  }
+}
