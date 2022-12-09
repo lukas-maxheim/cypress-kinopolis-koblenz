@@ -11,6 +11,6 @@
   "homepage": "https://github.com/lukas-makes-code/",
   "dependencies": {
     "cypress": "^11.1.0",
-    "cypress-lmc-plugin": "^1.0.1"
+    "cypress-lmc-plugin": "file:../cypress-lmc-plugin"
   }
 }
