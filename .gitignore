@@ -1,0 +1,5 @@
+node_modules
+*.min.js
+
+# Folders generated from cypress
+cypress/examples
